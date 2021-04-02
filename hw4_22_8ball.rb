@@ -34,7 +34,7 @@ answers = [
   "Перспективы не очень хорошие",
   "Весьма сомнительно"
 ]
-puts ""
+puts
 sleep 1
 puts "знаки говорят:"
 puts answers.sample
