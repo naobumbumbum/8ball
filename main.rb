@@ -1,8 +1,8 @@
-greeting = [
+greetings = [
   "Привет, дорогой друг, отвечаю на твои вопросы!",
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"]
-puts greeting.sample
+puts greetings.sample
 quest = gets.to_s
 
 answers = [
