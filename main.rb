@@ -3,7 +3,7 @@ greetings = [
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"]
 puts greetings.sample
-quest = gets.to_s
+question = gets.to_s
 
 answers = [
   # Положительные
